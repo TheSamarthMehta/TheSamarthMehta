@@ -14,7 +14,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thesamarthmehta" alt="thesamarthmehta" /></a> </p>
 
 - 🌱 I’m currently learning *Frameworks, Al/Ml, Core Subject*
-
+-  Let's Exploring the realm of Machine Learning
 - 📫 How to reach me *samarthmehtano1@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
