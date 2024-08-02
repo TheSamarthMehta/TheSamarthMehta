@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning *Frameworks, Al/Ml, Core Subject*
 -  Let's Exploring the realm of Machine Learning
-- 📫 How to reach me *samarthmehtano1@gmail.com*
+- 📫 How to reach me *mehtasamarthno1@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
